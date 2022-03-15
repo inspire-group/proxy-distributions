@@ -79,7 +79,7 @@ We release synthetic images for all five datasets used in our paper. You can dow
 If you find this work helpful, consider citing it. 
 
 ```bibtex
-@inproceedings{sehwag2022robust,
+@inproceedings{sehwag2022Proxy,
     title={Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness?},
     author={Vikash Sehwag and Saeed Mahloujifar and Tinashe Handina and Sihui Dai and Chong Xiang and Mung Chiang and Prateek Mittal},
     booktitle={International Conference on Learning Representations},
