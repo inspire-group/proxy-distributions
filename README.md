@@ -59,7 +59,7 @@ We release synthetic images for all five datasets used in our paper. You can dow
 
 |  Dataset  	| Number of training images in dataset 	| Generative model 	| Number of synthetic images  	| Class-conditioned 	| Samples	|
 |:---------:	|:-------------------------------------:	|:----------------:	|:----------------------------:	|:-----------------:	|:-----------------:	|
-|  CIFAR-10 	|                  50K                  	|    [DDPM](https://arxiv.org/abs/2006.11239)   	|              10M             	|       No       	|       [Link](https://drive.google.com/drive/folders/1xEJFc3OfXnClkm5-zLExiov1jUsnlaRK?usp=sharing)       	|
+|  CIFAR-10 	|                  50K                  	|    [DDPM](https://arxiv.org/abs/2006.11239)   	|              15M             	|       No       	|       [Link](https://drive.google.com/drive/folders/1xEJFc3OfXnClkm5-zLExiov1jUsnlaRK?usp=sharing)       	|
 |        "   	|                "                       	|     [StyleGAN](https://github.com/NVlabs/stylegan2-ada)     	|              10M             	|       Yes       	|       [Link](https://drive.google.com/file/d/1HvOBP7mmDImGudzjTinMzB-R3dVFGLr9/view?usp=sharing)       	|
 |        "   	|               "                        	|     [WGAN-ALP](https://arxiv.org/pdf/1907.05681v3.pdf)     	|              1M              	|       No       	|       [Link](https://drive.google.com/file/d/183khLDL1xMdNetsHxEmICNRhJrsbsbVV/view?usp=sharing)       	|
 |          " 	|               "                       	|       [E2GAN](https://arxiv.org/abs/2007.09180)      	|              1M              	|       No       	|       [Link](https://drive.google.com/file/d/1v9KBwmmmyz0SW378iZKCIdWik3Q5-lUj/view?usp=sharing)       	|
