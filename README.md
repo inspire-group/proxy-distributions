@@ -29,7 +29,7 @@ We can perform adversarial training on four GPUs using the following command.
 * `--syn-data-list`: Choice of synthetic dataset. It will be loaded from the directory provided by `--syn-data-dir` flag. One can choose to provide multiple synthetic datasets.  
 * `--dataset`: Choice of dataset from `(cifar-10, cifar-100)`
 
-We prvoide the synthetic dataloader and its integration with real data in `utils.py`. While the current demo consider cifar-10 and cifar-100 as the primary use cases, it can be easily extended to other datasets. 
+We provide the synthetic dataloader and its integration with real data in `utils.py`. While the current demo consider cifar-10 and cifar-100 as the primary use cases, it can be easily extended to other datasets. 
 
 
 Now let's consider the variations of aforementioned setup. 
